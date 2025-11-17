@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Quazi shoaib </h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/Quazishoaib/blob/main/" alt="QUazi Shoaib Banner">
+  <img src="https://github.com/jaiswaladi246/Quazishoaib/blob/main/" alt="Quazi Shoaib Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector <a href="https://www.linkedin.com/in/quazi-shoaib/)" target="_blank">DevOpsShack</a></h3>
