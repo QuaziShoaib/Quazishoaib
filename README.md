@@ -8,14 +8,14 @@
   <div align="center">
   <a href="https://www.linkedin.com/in/quazi-shoaib)" target="_blank" align="center" >QuaziShoaib</a>
   </div>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/QuaziShoaib/Quazishoaib">
     <img src="https://img.shields.io/github/followers/Quazishoaib?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/quazi-shoaib/">
     <img src="https://img.shields.io/badge/LinkedIn-Quazi%20Shoaib-blue?logo=linkedin&style=flat-square" />
   </a>
-</p>
+</p> -->
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
