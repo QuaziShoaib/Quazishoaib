@@ -4,7 +4,7 @@
   <img src="ChatGPT Image Jul 19, 2026, 06_49_20 PM.png" alt="Quazi Shoaib Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector <a href="https://www.linkedin.com/in/quazi-shoaib/)" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector <a href="https://www.linkedin.com/in/quazi-shoaib)" target="_blank">DevOpsShack</a></h3>
 
 <p align="center">
   <a href="https://github.com/QuaziShoaib/Quazishoaib">
