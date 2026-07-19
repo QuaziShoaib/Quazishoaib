@@ -5,8 +5,9 @@
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
+  <div align="center">
   <a href="https://www.linkedin.com/in/quazi-shoaib)" target="_blank" align="center" >QuaziShoaib</a>
-  
+  </div>
 <p align="center">
   <a href="https://github.com/QuaziShoaib/Quazishoaib">
     <img src="https://img.shields.io/github/followers/Quazishoaib?label=Follow&style=social" />
